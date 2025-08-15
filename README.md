@@ -179,24 +179,17 @@ financial-analysis-rag/
 └── README.md
 ```
 
-# Financial Analysis RAG System
-
-Comprehensive financial analysis and investment insights.
-
----
-
 ## Screenshots
-
-### Analysis Configuration Page
-<p align="center">
-  <img src="images/ui_config_screen.png" width="800">
-</p>
 
 ### Welcome & Features Page
 <p align="center">
   <img src="images/ui_welcome_screen.png" width="800">
 </p>
 
+### Analysis Configuration Page
+<p align="center">
+  <img src="images/ui_config_screen.png" width="800">
+</p>
 
 ## 🤝 Contributing
 
