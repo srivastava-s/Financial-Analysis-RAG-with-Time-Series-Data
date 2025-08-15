@@ -1,0 +1,47 @@
+# Git files
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Development files
+*.log
+.env
+.env.local
+.env.example
+
+# Data files
+data/
+*.db
+*.sqlite
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Tests
+tests/
+test_*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large dependencies (not needed for Vercel)
+requirements_simple.txt
+requirements-vercel.txt
