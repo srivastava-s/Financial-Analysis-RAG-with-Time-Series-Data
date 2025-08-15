@@ -1,0 +1,2 @@
+# This file ensures the data/embeddings directory is tracked by Git
+# Actual embedding files in this directory are ignored by .gitignore
