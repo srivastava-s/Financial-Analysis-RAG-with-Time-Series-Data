@@ -182,11 +182,12 @@ financial-analysis-rag/
 ## Screenshots
 ### Welcome & Features Page
 <p align="center">
-  <img src="images/ui_config_screen.png" width="800">
+    <img src="images/ui_welcome_screen.png" width="800">
+ 
 </p>
 
 <p align="center">
-  <img src="images/ui_welcome_screen.png" width="800">
+   <img src="images/ui_config_screen.png" width="800">
 </p>
 
 ## 🤝 Contributing
